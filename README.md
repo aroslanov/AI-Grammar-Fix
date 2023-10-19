@@ -20,9 +20,9 @@ or, if you want to run it windowless:
 
 `pythonw.exe ai-grammar_fix.py`
 
-- **Hotkey Trigger**: Select text in any app, then press `Alt+Ctrl+G` to initiate the grammar check process. This will copy the selected text, check its grammar and style, and replace it with the corrected text on your clipboard.
+Once the script is running (you will notice the abc icon in your Windows tray bar), you can use the following features:
 
-Once the script is running (you will notice the abc icon in your Windows tray bar), you can use the following features (click on a tray icon with the right mouse button):
+- **Hotkey Trigger**: Select text in any app, then press `Alt+Ctrl+G` to initiate the grammar check process. This will copy the selected text, check its grammar and style, and replace it with the corrected text on your clipboard.
 
 - **Model Switching**: You can switch between the GPT-3.5 Turbo and Text-DaVinci-003 models by right-clicking the script's system tray icon and selecting "Switch Model."
 
