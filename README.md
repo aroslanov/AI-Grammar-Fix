@@ -1,4 +1,4 @@
-# Grammar Fix Script
+# ФШ Grammar Fix Script
 
 This is a Python script that uses the OpenAI API to check and correct the grammar and style of text using the GPT-3.5 Turbo or Text-DaVinci-003 models. It provides a convenient way to enhance the quality of text by refining its grammar and style. Additionally, it offers the option to switch between the two models.
 
