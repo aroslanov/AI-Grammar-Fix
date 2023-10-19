@@ -20,7 +20,7 @@ or, if you want to run it windowless:
 
 `pythonw.exe ai-grammar_fix.py`
 
-Once the script is running (you will notice the abc icon in your Windows tray bar), you can utiuse the following features (click on a tray icon with the right mouse button):
+Once the script is running (you will notice the abc icon in your Windows tray bar), you can use the following features (click on a tray icon with the right mouse button):
 
 - **Hotkey Trigger**: Press `Alt+Ctrl+G` to initiate the grammar check process. This will copy the selected text, check its grammar and style, and replace it with the corrected text on your clipboard.
 
