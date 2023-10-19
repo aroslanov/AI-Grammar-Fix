@@ -1,0 +1,9 @@
+pyautogui
+keyboard
+aiohttp==3.9.0b0
+openai
+pyperclip
+pynput
+Pillow
+pystray
+easygui
